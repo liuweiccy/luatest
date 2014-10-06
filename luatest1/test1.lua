@@ -6,4 +6,5 @@
 -- To change this template use File | Settings | File Templates.
 --
 print("hello world")
+print("你好，世界！")
 
