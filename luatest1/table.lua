@@ -8,3 +8,4 @@
 
 days = {"Sunday"}
 print(days)
+print(days[1])
